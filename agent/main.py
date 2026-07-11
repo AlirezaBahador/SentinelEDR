@@ -1,6 +1,7 @@
 import psutil
 import time
 from datetime import datetime
+from sender import send
 
 known_pids = set()
 
