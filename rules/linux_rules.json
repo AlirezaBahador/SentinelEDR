@@ -1,0 +1,7 @@
+{
+  "reverse_shell": [
+    "bash -i",
+    "nc",
+    "socat"
+  ]
+}
