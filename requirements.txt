@@ -6,3 +6,4 @@ psycopg2-binary
 redis
 websockets
 python-dotenv
+requests
