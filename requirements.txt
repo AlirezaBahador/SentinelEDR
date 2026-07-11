@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+psutil
+sqlalchemy
+psycopg2-binary
+redis
+websockets
+python-dotenv
